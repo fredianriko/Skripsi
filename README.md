@@ -5,8 +5,7 @@ My final project title is "social media scraping on data acquisition for digital
 
 this research is meant for suggesting to use scraping method on social media for data acquisition in digital forensic world
 
-
-first thing to be honest, all of these code i got from this website
+as reference, all of these code i got from this website
 
 https://www.promptcloud.com/blog/scrape-twitter-data-using-python-r/
 
@@ -26,5 +25,5 @@ Currently i'm on progress to figuring out how to scrap and save it as CSV file o
 5. tweets that contain video (MP4 and MOV format)
 
 for this research i hopefully anyone that are expert on scraping using python could contribute to help me developing this code further,
-even a little bit of contribution is really priceless to me. 
+even a little bit of contribution is really appreciated. 
 Thank you
